@@ -1,18 +1,19 @@
-# Marlin 3D Printer Firmware
-<img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
+# Marlin 3D Printer Firmware (For FLSun i3 Plus with Inductive Probe on this branch)
+
+## WARNING! WARNING! THIS MIGHT BE DANGEROUS!
+This fork of Marlin 1.1.8 contains custom modifications to the firmware! Please, import your settings to this version one-by-one in order to prevent nasty surprises!
+
+I have tried my best to port the settings from older Marlin 1.1.2 firmware provided by the manufacturer, but sometimes things can go wrong. Please report back any issues to me.
+
+Thanks,
+
+Torbjorn
 
 ## Marlin 1.1
 
 Marlin 1.1 represents an evolutionary leap over Marlin 1.0.2. It is the result of over two years of effort by several volunteers around the world who have paid meticulous and sometimes obsessive attention to every detail. For this release we focused on code quality, performance, stability, and overall user experience. Several new features have also been added, many of which require no extra hardware.
 
 For complete Marlin documentation click over to the [Marlin Homepage <marlinfw.org>](http://marlinfw.org/), where you will find in-depth articles, how-to videos, and tutorials on every aspect of Marlin, as the site develops. For release notes, see the [Releases](https://github.com/MarlinFirmware/Marlin/releases) page.
-
-### WARNING! WARNING! THIS MIGHT BE DANGEROUS!
-This fork of Marlin 1.1.x contains custom modifications to the firmware! Please, import your settings to this version one-by-one in order to prevent nasty surprises!
-
-I have tried my best to port the settings from older Marlin 1.1.2 firmware provided by the manufacturer, but sometimes things can go wrong. Please report back any issues to me.
-
-- Torbjorn
 
 ## Stable Release Branch
 
