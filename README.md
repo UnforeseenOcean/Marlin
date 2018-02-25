@@ -5,9 +5,11 @@ This fork of Marlin 1.1.8 contains custom modifications to the firmware! Please,
 
 I have tried my best to port the settings from older Marlin 1.1.2 firmware provided by the manufacturer, but sometimes things can go wrong. Please report back any issues to me.
 
+(As far as I can tell, this firmware is ready to be used (after testing it on my own printer), but just be a bit more cautious when using this, as stated earlier.)
+
 Thanks,
 
-Torbjorn
+Torbjorn, a short wannabe engineer
 
 ## Marlin 1.1
 
